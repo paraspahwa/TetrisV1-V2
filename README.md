@@ -1,3 +1,10 @@
+# Project
+
+<h1 align="center">
+  <img alt="React tetris " title="#React tetris desktop" src="./images/image.jpg" />
+</h1>
+
+
 # React Tetris V1
 
 Tetris game built with React
