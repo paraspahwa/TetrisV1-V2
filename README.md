@@ -1,7 +1,7 @@
 # Project
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/image.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/image.png" />
 </h1>
 
 
